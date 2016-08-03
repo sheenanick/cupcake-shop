@@ -1,8 +1,24 @@
-h1, {
+body {
+  font-family: sans-serif;
+  margin: 15%;
+}
+h1 {
   text-align: center;
 }
 img {
   display: block;
   margin: auto;
-  width: 70%;
+  width: 100%;
+}
+a {
+  text-decoration: none;
+  color: #00cccc;
+}
+.popular {
+  color: #ff66b3;
+}
+
+.flashy {
+  color: #00e673;
+  font-style: normal;
 }
